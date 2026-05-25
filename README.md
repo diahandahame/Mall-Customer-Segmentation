@@ -138,20 +138,21 @@ This convergence across two independent algorithms validates the cluster structu
 ![3D](assets/clusters_3d.png)
 
 ---
-
 ## 📁 Repository Structure
 
- ``` Mall-Customer-Segmentation/
+``````
+Mall-Customer-Segmentation/
 ├── README.md
 ├── Mall_Customer_Segmentation.ipynb
 └── assets/
-├── elbow_method.png
-├── silhouette_score.png
-├── clusters_visualization.png
-├── cluster_profiles.png
-├── dendrogram.png
-├── kmeans_vs_cah.png
-└── clusters_3d.png  ```
+    ├── elbow_method.png
+    ├── silhouette_score.png
+    ├── clusters_visualization.png
+    ├── cluster_profiles.png
+    ├── dendrogram.png
+    ├── kmeans_vs_cah.png
+    └── clusters_3d.png
+``````
 
 ---
 
