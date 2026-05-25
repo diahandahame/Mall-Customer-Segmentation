@@ -141,7 +141,7 @@ This convergence across two independent algorithms validates the cluster structu
 
 ## 📁 Repository Structure
 
-''' Mall-Customer-Segmentation/
+ ``` Mall-Customer-Segmentation/
 ├── README.md
 ├── Mall_Customer_Segmentation.ipynb
 └── assets/
@@ -151,4 +151,21 @@ This convergence across two independent algorithms validates the cluster structu
 ├── cluster_profiles.png
 ├── dendrogram.png
 ├── kmeans_vs_cah.png
-└── clusters_3d.png '''
+└── clusters_3d.png  ```
+
+---
+
+## 🔗 Related Projects
+
+- [Superstore - Python EDA](https://github.com/diahandahame/Superstore-Python-EDA)
+- [Superstore - Power BI Dashboard](https://github.com/diahandahame/Superstore-PowerBI-Dashboard)
+- [AdventureWorks - Advanced SQL Analysis](https://github.com/diahandahame/AdventureWorks-SQL-Analysis)
+
+---
+
+## 👤 Author
+
+**Handahamé DIA** - Quantitative Economist | Business Analyst
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Handahamé_DIA-blue?logo=linkedin)](https://www.linkedin.com/in/handahame-dia/)
+[![GitHub](https://img.shields.io/badge/GitHub-diahandahame-black?logo=github)](https://github.com/diahandahame)
